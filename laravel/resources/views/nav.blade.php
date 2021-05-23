@@ -32,7 +32,6 @@
       <form id="logout-button" method="POST" action="">
 
       </form>
-  
     </ul>
   
 </nav>
